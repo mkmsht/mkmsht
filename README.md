@@ -8,7 +8,6 @@
 
 ### Awards
 - EMIRAビジコン2021　KADOKAWA賞　(準優勝)
-- 42Tokyo the first time Piscine, Pass (youngest, 18 y/o)
 
 ほか
 ### Skills
