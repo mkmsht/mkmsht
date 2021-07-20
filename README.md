@@ -9,7 +9,6 @@
 ### Awards
 - EMIRAビジコン2021　KADOKAWA賞　(準優勝)
 
-ほか
 ### Skills
 - C/C++
 - React (JavaScript / TypeScript)
