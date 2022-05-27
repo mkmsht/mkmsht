@@ -3,7 +3,7 @@
 
 ### Profile
 - 2001/07/09
-- Waseda University B2(電子物理システム学科)
+- Waseda University (電子物理システム学科)
 - 42 Tokyo (１期：2020/4~)
 
 ### Awards
