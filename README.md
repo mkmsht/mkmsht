@@ -4,7 +4,7 @@
 ### Profile
 - 2001/07/09
 - Waseda University (電子物理システム学科)
-- 42 Tokyo (１期：2020/4~)
+- 42 Tokyo (2020/4~)
 
 ### Awards
 - EMIRAビジコン2021　KADOKAWA賞　(準優勝)
