@@ -1,4 +1,28 @@
-### Hi there 👋
+## Shota Mikami
+三上翔太
+
+### Profile
+- 2001/07/09
+- Waseda University (電子物理システム学科/情報システム研究室)
+- 42 Tokyo (2020/4 ~ 2021/11)
+
+### Awards
+- EMIRAビジコン2021　KADOKAWA賞　(準優勝)
+
+### Skills
+- C/C++
+- Ruby, Ruby on Rails
+- React (JavaScript / TypeScript)
+- Python
+- SQL
+- Firebase
+- Docker
+- AWS
+- ほか
+
+
+### For More Info:
+- Email: [shota79.s20@gmail.com](mailto:shota79.s20@gmail.com)
 
 <!--
 **mkmsht/mkmsht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
