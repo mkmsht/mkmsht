@@ -9,16 +9,6 @@
 ### Awards
 - EMIRAビジコン2021　KADOKAWA賞　(準優勝)
 
-### Skills
-- C/C++
-- Ruby, Ruby on Rails
-- React (JavaScript / TypeScript)
-- Python
-- SQL
-- Firebase
-- Docker
-- AWS
-- ほか
 
 
 ### For More Info:
