@@ -3,13 +3,12 @@
 
 ### Profile
 - 2001/07/09
-- Waseda University (電子物理システム学科/情報システム研究室)
+- Waseda University School of Fundamental Science and Engineering (Department of Electronic and Physical Systems/Laboratory of Information Systems) / https://www.eps.sci.waseda.ac.jp/en/
 - 42 Tokyo (2020/4 ~ 2021/11)
 
 ### Awards
 - EMIRAビジコン2021　KADOKAWA賞　(準優勝)
-
-
+https://emira-t.jp/bizcon2021/archives/
 
 ### For More Info:
 - Email: [shota79.s20@gmail.com](mailto:shota79.s20@gmail.com)
